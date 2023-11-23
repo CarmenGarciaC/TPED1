@@ -112,3 +112,10 @@ footer{
     text-decoration-line: underline;
     
 }
+
+#think:hover{
+    position: relative;
+    right: 2px;
+    bottom: 2px;
+
+}
