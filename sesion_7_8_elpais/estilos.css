@@ -14,7 +14,11 @@ background-color:white
 
 header{
 height: 30px;    
-background-color:midnightblue 
+background-color:midnightblue;
+position: fixed;
+top: 0;
+width: 100%;
+
 }
 
 header ul li{
