@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dhurjati&family=EB+Garamond&family=Hedvig+Letters+Serif:opsz@12..24&family=Lobster&family=Roboto&family=Roboto+Slab&family=Saira+Extra+Condensed&family=Shadows+Into+Light&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 90%;
+    height: 500px;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+article{
+    width: 100%;
+    background-color: darkkhaki;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+article>div{
+    width: 30%;
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 10px;
+    font-size: 1.4em;
+}
+
+#p1{
+font-family: 'Bebas Neue', sans-serif;
+}
+
+#p2{
+font-family: 'Dhurjati', sans-serif;
+}
+
+#p3{
+font-family: 'EB Garamond', serif;
+}
+
+#p4{
+font-family: 'Hedvig Letters Serif', serif;
+}
+
+#p5{
+font-family: 'Lobster', sans-serif;
+}
+
+#p6{
+font-family: 'Roboto', sans-serif;
+}
+
+#p7{
+font-family: 'Roboto Slab', serif;
+}
+
+#p8{
+font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+#p9{
+font-family: 'Shadows Into Light';
+}
