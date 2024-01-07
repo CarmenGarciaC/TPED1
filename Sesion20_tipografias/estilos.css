@@ -11,7 +11,7 @@
 main{
     width: 90%;
     height: 500px;
-    background-color: azure;
+    background-color: white;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
@@ -25,7 +25,7 @@ h1{
 
 article{
     width: 100%;
-    background-color: darkkhaki;
+    background-color:white;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -33,7 +33,7 @@ article{
 
 article>div{
     width: 30%;
-    background-color: aquamarine;
+    background-color: white;
     margin: 5px;
     padding: 10px;
     font-size: 1.4em;

@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#sup{
+    background-color:aquamarine;
+}
+
+#izq{
+    background-color: blue;
+}
+
+#cent{
+    background-color: rgb(226, 96, 163);
+}
+
+
+#der{
+    background-color: blueviolet;
+}

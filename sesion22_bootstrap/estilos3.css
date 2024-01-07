@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#sup{
+    height: 50vh;
+    background-color:aquamarine;
+}
+
+#izq{
+    background-color: rgb(163, 32, 54);
+    height: 20vh;
+}
+
+#der{
+    background-color: blueviolet;
+    height: 30vh;
+}
